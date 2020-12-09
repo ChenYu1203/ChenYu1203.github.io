@@ -35,6 +35,7 @@ body{
 }
 
 div#container{
+	overflow-y: auto;
 	display: inline-block;
 	height: 100%;
 	width: 90%;
