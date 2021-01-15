@@ -8,5 +8,5 @@ $(document).ready(function () {
 		else {
 			$(this).children().css('display', 'none');
 		}
-	});
+	}); 
 });
