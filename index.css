@@ -90,6 +90,12 @@ img#t1,#t2{
 	margin: 1vh 1vw 1vh 1vw;
 }
 
+img#R1{
+	height: 48vh;
+	width: 45vw;
+	margin: 1vh 3vw 1vh 3vw;
+}
+
 h1{
 	font-size: 3vh;
 	font-family: 'Amatic SC', cursive;
