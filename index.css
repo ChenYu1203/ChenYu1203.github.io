@@ -39,11 +39,11 @@ div#container{
 	height: 100%;
 	width: 85%;
 	margin-left: 15%;
-	padding: 7vh 7vw;
+	padding: 8vh 8vw;
 	background-color: #d9d9d9;
 	color: #432534;
 	font-size: 2.5vh;
-	font-family: 'Amatic SC', cursive;
+	font-family: 'Cormorant Garamond', serif;
 }
 
 img#banner{
@@ -114,6 +114,7 @@ h2{
 }
 
 p{
+	margin: 0 6vw;
 	padding: 2.5vh 0;
 }
 
