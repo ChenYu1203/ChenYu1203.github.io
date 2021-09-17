@@ -5,7 +5,7 @@ $(document).ready(function () {
 			$('nav > div > div').css('display', 'none');    //先全部收起來變成none 點到的再出來
 			$(this).children().css('display', 'block');
 		}
-		else {
+		else { 
 			$(this).children().css('display', 'none');
 		}
 	}); 
